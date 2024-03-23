@@ -6,18 +6,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulo23k)
 
 ## **Habilidades**
-### *Basico*
-Fundamentos de Lógica de Programação / Santander Bootcamp Cibersegurança
-
-
-
 ### *Avançado*
-TI -- Manutenção do computador (geral) / Formatação de computador / Backup de arquivos
+TI -- Manutenção do computador (geral) Formatação / Backup / Manutenção Preventiva e corretiva / Limpeza / Otimização de sistema
 
 ## **Meus cursos**
 **MICROCAMP** - Manutenção de computadores
 
 **SENAC** - Técnico em informática
+
+**CISCO** - Fundamentos Segurança da informação
+
+**BOOTCAMP SANTANDER** - Cibersegurança
+
+## **FACULDADE**
+**FATEC** - Segurança da informação 
 
 ## **Sistema Operacional**
 
